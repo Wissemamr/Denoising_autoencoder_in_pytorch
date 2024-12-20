@@ -22,6 +22,6 @@ The table below shows the final average training and testing losses after comple
 
 | Loss Type          | Final Value  |
 |--------------------|--------------|
-| **Avg Train Loss** | 0.05094      |
-| **Avg Test Loss**  | 0.05097      |
+| **Avg Train Loss** | 0.05096      |
+| **Avg Test Loss**  | 0.05099      |
 
