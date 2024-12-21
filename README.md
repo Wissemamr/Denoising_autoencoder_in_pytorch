@@ -16,7 +16,7 @@ The following table summarizes the hyperparameters used for training the convolu
 | **Batch Size**      | 64           |
 
 
-## LResults
+## Results
 
 The table below shows the final average training and testing losses after completing the training:
 
